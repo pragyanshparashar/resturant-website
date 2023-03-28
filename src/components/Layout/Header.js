@@ -13,7 +13,6 @@ import {
 } from "@mui/material";
 import { Link } from "react-router-dom";
 import "../../Styles/HeadersStyles.css";
-import { sizing } from "@mui/system";
 
 const Header = () => {
   const [mobileopen, setmobileopen] = useState(false);

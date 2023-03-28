@@ -1,5 +1,5 @@
 import { Box, Typography } from "@mui/material";
-import { fontWeight } from "@mui/system";
+
 import React from "react";
 import Layout from "../components/Layout/Layout";
 
